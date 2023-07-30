@@ -1,0 +1,62 @@
+Hey 
+ 
+I did a little searching on Google maps of another country and found a site that is similar to my idea - https://corvo-coffee.business.site 
+ 
+But some changes need to be made to it. This site is too simple and I need a more fulfilling result, here are all the changes that should be made: 
+ 
+- "corvo coffee" should be replaced by "Hideaway Coffee" and our logo. I am attaching a .svg file with the logo that the designer drew for me
+ 
+-the header should contain "About us" and "Find us", the user when clicking on the buttons from the header should move to the place of this section on the site. There shouldn't be a menu on the left of the header 
+ 
+- "Cafe in London" instead of "cafe in New York Open today until 7:00 PM" 
+ 
+-instead of the main photo, a carousel of several photos from Google maps or from our instagram. It should be switchable, with buttons, and from the phone should also be able to switch photos with a swipe of the finger 
+ 
+-Add an "About us" section after the photo carousel and before the Google map integration - "The best service, satisfied customers, delicious coffee from the most exotic countries and a wide range of drinks and desserts - that's all about us! Come to Hideaway Coffee and see for yourself. We are waiting for your coming!" 
+ 
+-make Google Map as an integration, a fully working map, not as a picture with a link. Also below the map should be our address in text form. https://goo.gl/maps/xtSV1AEcbiqvMjuS8 - Here is our cafe on Google Maps. The inscription "Find us" should be above the map 
+ 
+-under all of this, put a link to our instagram - https://www.instagram.com/hideawaycoffee/. It should be beautifully designed, not just a link as text 
+ 
+-These hours of operation. The schedule should be placed under the link to instagram, or at the same level as the link, you as a web designer know better 
+Monday 
+8am–4pm
+Tuesday 
+8am–4pm
+Wednesday 
+8am–4pm
+Thursday 
+8am–4pm
+Friday 
+8am–4pm
+Saturday 
+10am–4pm
+Sunday 
+Closed
+
+-Put any other neutral and minimalistic font instead of the one they already have 
+ 
+-make all captions, except the main ones, 50% bigger 
+ 
+-Make the site mobile-friendly 
+ 
+-Color design should repeat the design of the logo, it means that the website should be black and white
+ 
+-without the footer 
+ 
+This is a business card site, which should impress the person who visits it 
+ 
+An additional request - some details you can change at your discretion. But stick to my instructions anyway, don't change the site beyond recognition 
+ 
+I want to get the final files of my site, which will then be installed on the hosting and connected to the domain. You don't need to create a hosting or a domain, all I need are the files, I prefer regular HTML and CSS for my site. You can use any tool you want, as long as it does not disturb the file structure 
+ 
+The most important thing for me is the speed and quality of your work 
+ 
+About payment - I pay directly 3000$ in BTC or any other cryptocurrency. I only use cryptocurrency for these kinds of online transactions, and I wouldn't want to pay any other way. Let me know if this is a problem for you! 
+
+I would like to see a small part of the work first, and then transfer the full amount, without prepayment. I think it would be more convenient for both you and me. Of course, I am not asking for a full job - it is enough for me to see confirmation that you have started the project, and then I can transfer the full amount to you 
+ 
+I hope we can work together. Let me know your thoughts 😊
+
+Elwin Potter, [7/14/2023 8:41 AM]
+based off
